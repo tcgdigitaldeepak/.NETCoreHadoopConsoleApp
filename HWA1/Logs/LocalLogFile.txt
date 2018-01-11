@@ -1,0 +1,16 @@
+10-01-2018 17:26:18 ===================================== Log Start =================================== 
+Error Message: String Message Error
+Stack Trace:    at HWA1.Controllers.HadoopLogsController.Index() in C:\Users\deepakk\Desktop\DEMO\HWA1\HWA1\Controllers\HadoopLogsController.cs:line 34
+10-01-2018 17:26:18 ===================================== Log End ===================================== 
+10-01-2018 17:28:32 ===================================== Log Start =================================== 
+Error Message: String Message Error
+Stack Trace:    at HWA1.Controllers.HadoopLogsController.Index() in C:\Users\deepakk\Desktop\DEMO\HWA1\HWA1\Controllers\HadoopLogsController.cs:line 34
+10-01-2018 17:28:32 ===================================== Log End ===================================== 
+10-01-2018 17:59:28 ===================================== Log Start =================================== 
+Error Message: String Message Error
+Stack Trace:    at HWA1.Controllers.HadoopLogsController.Index() in C:\Users\deepakk\Desktop\DEMO\HWA1\HWA1\Controllers\HadoopLogsController.cs:line 34
+10-01-2018 17:59:28 ===================================== Log End ===================================== 
+11-01-2018 12:12:31 ===================================== Log Start =================================== 
+Error Message: String Message Error
+Stack Trace:    at HWA1.Controllers.HadoopLogsController.Index() in C:\Users\deepakk\Desktop\DEMO\HWA1\HWA1\Controllers\HadoopLogsController.cs:line 34
+11-01-2018 12:12:31 ===================================== Log End ===================================== 

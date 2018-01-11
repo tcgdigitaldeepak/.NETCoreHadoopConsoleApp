@@ -1,0 +1,11 @@
+C:\Users\deepakk\Desktop\DEMO\HWA1\HWA1\bin\Debug\netcoreapp2.0\HWA1.deps.json
+C:\Users\deepakk\Desktop\DEMO\HWA1\HWA1\bin\Debug\netcoreapp2.0\HWA1.runtimeconfig.json
+C:\Users\deepakk\Desktop\DEMO\HWA1\HWA1\bin\Debug\netcoreapp2.0\HWA1.runtimeconfig.dev.json
+C:\Users\deepakk\Desktop\DEMO\HWA1\HWA1\bin\Debug\netcoreapp2.0\HWA1.dll
+C:\Users\deepakk\Desktop\DEMO\HWA1\HWA1\bin\Debug\netcoreapp2.0\HWA1.pdb
+C:\Users\deepakk\Desktop\DEMO\HWA1\HWA1\obj\Debug\netcoreapp2.0\HWA1.csprojResolveAssemblyReference.cache
+C:\Users\deepakk\Desktop\DEMO\HWA1\HWA1\obj\Debug\netcoreapp2.0\HWA1.csproj.CoreCompileInputs.cache
+C:\Users\deepakk\Desktop\DEMO\HWA1\HWA1\obj\Debug\netcoreapp2.0\HWA1.AssemblyInfoInputs.cache
+C:\Users\deepakk\Desktop\DEMO\HWA1\HWA1\obj\Debug\netcoreapp2.0\HWA1.AssemblyInfo.cs
+C:\Users\deepakk\Desktop\DEMO\HWA1\HWA1\obj\Debug\netcoreapp2.0\HWA1.dll
+C:\Users\deepakk\Desktop\DEMO\HWA1\HWA1\obj\Debug\netcoreapp2.0\HWA1.pdb
